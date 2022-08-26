@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import asyncio
 
 
-bot = Bot(token='Put here your token')
+bot = Bot(token='Put here your token from telegram')
 dp = Dispatcher(bot)
 
 
